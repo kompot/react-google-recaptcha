@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/dozoisch/react-google-recaptcha",
   "peerDependencies": {
-    "react": ">=0.14"
+    "react": ">=0.14 || >= 15.0.0"
   },
   "devDependencies": {
     "babel": "~5.8.21",
